@@ -35,5 +35,5 @@ Explicación del contenido de varias carpetas:
 
 El archivo "0_funciones_ML.ipynb" contiene funciones creadas durante el proyecto para facilitar su desarrollo.
 
-Este repositorio emplea conjuntos de datos obtenidos de Kaggle, y pueden encontrarse en la
+Los conjuntos de datos utilizados en este repositorio pueden encontrarse en la
 siguiente dirección:    https://www.kaggle.com/nicholasjhana/energy-consumption-generation-prices-and-weather
