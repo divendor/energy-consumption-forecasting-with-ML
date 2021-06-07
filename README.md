@@ -1,6 +1,6 @@
 # Predicción de consumo energético mediante ML
 
-Este repositorio contiene los archivos creados para la realización de este proyecto.
+Este repositorio contiene los archivos creados para la realización del proyecto.
 
 El orden de lectura recomendado es:
 
