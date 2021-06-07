@@ -7,13 +7,10 @@ El orden de lectura recomendado es:
 
 1. Análisis Exploratorio de datos. 
 
-  1.1. 1_EDA/EDA_1.ipynb
-  
-  1.2. 1_EDA/EDA_energy.ipynb
-  
-  1.3. 1_EDA/EDA_weather.ipynb
-  
-  1.4. 1_EDA/EDA_2.ipynb
+    1.1. 1_EDA/EDA_1.ipynb
+    1.2. 1_EDA/EDA_energy.ipynb
+    1.3. 1_EDA/EDA_weather.ipynb
+    1.4. 1_EDA/EDA_2.ipynb
   
 2. Modelos de Machine Learning
   2.1. 3_ML/1_feature_engineering.ipynb
