@@ -1,5 +1,4 @@
-# Predicción de consumo energético
-# mediante ML
+# Predicción de consumo energético mediante ML
 
 Este repositorio contiene los archivos creados para la realización de este proyecto.
 
