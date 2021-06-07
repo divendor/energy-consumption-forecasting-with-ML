@@ -32,7 +32,7 @@ Explicación del contenido de varias carpetas:
 - images: imágenes generadas para el trabajo
 - modelos: los modelos estimados durante el trabajo
 
-El archivo "0_funciones_ML.ipynb" contiene funciones creadas durante el proyecto para facilitar su desarrollo.
+El archivo "0_funciones_ML.ipynb" contiene algunas de las funciones creadas durante el proyecto para facilitar su desarrollo.
 
 Los conjuntos de datos utilizados en este trabajo pueden encontrarse en la
 siguiente dirección:    https://www.kaggle.com/nicholasjhana/energy-consumption-generation-prices-and-weather
