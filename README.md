@@ -32,9 +32,7 @@ Explicación del contenido de varias carpetas:
 - images: imágenes generadas para el trabajo
 - modelos: los modelos estimados durante el trabajo
 
-El archivo "0_funciones_ML.ipynb" contiene funciones creadas durante el TFG para facilitar su desarrollo.
+El archivo "0_funciones_ML.ipynb" contiene funciones creadas durante el proyecto para facilitar su desarrollo.
 
-Este repositorio emplea conjuntos de datos obtenidos de Kaggle, y pueden encontrarse en la
-siguiente direcció
 Este repositorio emplea conjuntos de datos obtenidos de Kaggle, y pueden encontrarse en la
 siguiente dirección:    https://www.kaggle.com/nicholasjhana/energy-consumption-generation-prices-and-weather
