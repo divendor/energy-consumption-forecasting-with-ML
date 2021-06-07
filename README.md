@@ -26,6 +26,7 @@ El orden de lectura recomendado es:
 6. Generación de imágenes para la memoria.
     - imagenes_memoria 
 
+
 Explicación del contenido de varias carpetas:
 - data (o datasets): conjuntos de datos empleados durante el trabajo
 - images: imágenes generadas para el trabajo
