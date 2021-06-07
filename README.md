@@ -13,19 +13,19 @@ El orden de lectura recomendado es:
     - 1_EDA/EDA_2.ipynb
   
 2. Modelos de Machine Learning
-  2.1. 3_ML/1_feature_engineering.ipynb
-  2.2. 3_ML/one_step_forecasting.ipynb
-  2.3. 3_ML/multi_step_forecasting_1.ipynb
-  2.4. 3_ML/multi_step_forecasting_2.ipynb
+    - 3_ML/1_feature_engineering.ipynb
+    - 3_ML/one_step_forecasting.ipynb
+    - 3_ML/multi_step_forecasting_1.ipynb
+    - 3_ML/multi_step_forecasting_2.ipynb
 
 4. Modelos tipo redes neuronales
-  2.1. 3_ML/1_feature_engineering.ipynb
-  2.2. 3_ML/one_step_forecasting.ipynb
-  2.3. 3_ML/multi_step_forecasting_1.ipynb
-  2.4. 3_ML/multi_step_forecasting_2.ipynb
+    - 3_ML/1_feature_engineering.ipynb
+    - 3_ML/one_step_forecasting.ipynb
+    - 3_ML/multi_step_forecasting_1.ipynb
+    - 3_ML/multi_step_forecasting_2.ipynb
 
 6. Generación de imágenes para la memoria.
-  5.1. imagenes_memoria 
+    - imagenes_memoria 
 
 
 Explicación del contenido de varias carpetas:
